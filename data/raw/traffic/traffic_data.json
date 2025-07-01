@@ -1,0 +1,35 @@
+{
+  "city": "MetroCity",
+  "roads": [
+    {
+      "name": "Avenue 1",
+      "traffic": {
+        "congestion_level": "low",
+        "average_speed": 18.9,
+        "timestamps": [
+          { "time": "06:00", "speed": 26.5 },
+          { "time": "07:00", "speed": 22.2 },
+          { "time": "08:00", "speed": 11.4 },
+          { "time": "09:00", "speed": 24.9 },
+          { "time": "10:00", "speed": 16.7 },
+          { "time": "11:00", "speed": 11.8 }
+        ]
+      }
+    },
+    {
+      "name": "Highway 7",
+      "traffic": {
+        "congestion_level": "moderate",
+        "average_speed": 17.7,
+        "timestamps": [
+          { "time": "06:00", "speed": 22.5 },
+          { "time": "07:00", "speed": 19.4 },
+          { "time": "08:00", "speed": 5.5 },
+          { "time": "09:00", "speed": 19.9 },
+          { "time": "10:00", "speed": 21.7 },
+          { "time": "11:00", "speed": 17.4 }
+        ]
+      }
+    }
+  ]
+}

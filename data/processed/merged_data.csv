@@ -1,0 +1,21 @@
+route_id,vehicle_id,timestamp,status,stop_id,delay_minutes,passenger_count,congestion_score,hour,road,congestion_level,time,speed
+R1,V101,2025-05-28 06:00:00,early,S10,-1,24,1,6,Avenue 1,low,06:00,26.5
+R1,V101,2025-05-28 06:00:00,early,S10,-1,24,1,6,Highway 7,moderate,06:00,22.5
+R1,V101,2025-05-28 06:15:00,delayed,S11,-5,27,1,6,Avenue 1,low,06:00,26.5
+R1,V101,2025-05-28 06:15:00,delayed,S11,-5,27,1,6,Highway 7,moderate,06:00,22.5
+R1,V101,2025-05-28 06:28:00,delayed,S12,2,53,2,6,Avenue 1,low,06:00,26.5
+R1,V101,2025-05-28 06:28:00,delayed,S12,2,53,2,6,Highway 7,moderate,06:00,22.5
+R1,V101,2025-05-28 06:43:00,on_time,S13,0,38,1,6,Avenue 1,low,06:00,26.5
+R1,V101,2025-05-28 06:43:00,on_time,S13,0,38,1,6,Highway 7,moderate,06:00,22.5
+R1,V101,2025-05-28 06:55:00,delayed,S14,0,16,1,6,Avenue 1,low,06:00,26.5
+R1,V101,2025-05-28 06:55:00,delayed,S14,0,16,1,6,Highway 7,moderate,06:00,22.5
+R1,V202,2025-05-28 06:00:00,early,S10,3,11,2,6,Avenue 1,low,06:00,26.5
+R1,V202,2025-05-28 06:00:00,early,S10,3,11,2,6,Highway 7,moderate,06:00,22.5
+R1,V202,2025-05-28 06:10:00,delayed,S11,4,48,2,6,Avenue 1,low,06:00,26.5
+R1,V202,2025-05-28 06:10:00,delayed,S11,4,48,2,6,Highway 7,moderate,06:00,22.5
+R1,V202,2025-05-28 06:21:00,on_time,S12,0,31,1,6,Avenue 1,low,06:00,26.5
+R1,V202,2025-05-28 06:21:00,on_time,S12,0,31,1,6,Highway 7,moderate,06:00,22.5
+R1,V202,2025-05-28 06:31:00,delayed,S13,5,11,2,6,Avenue 1,low,06:00,26.5
+R1,V202,2025-05-28 06:31:00,delayed,S13,5,11,2,6,Highway 7,moderate,06:00,22.5
+R1,V202,2025-05-28 06:43:00,delayed,S14,3,21,2,6,Avenue 1,low,06:00,26.5
+R1,V202,2025-05-28 06:43:00,delayed,S14,3,21,2,6,Highway 7,moderate,06:00,22.5

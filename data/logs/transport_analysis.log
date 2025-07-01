@@ -1,0 +1,12 @@
+2025-05-28 22:42:30,097 - INFO - Loading traffic data and transport data started 
+2025-05-28 22:42:30,111 - INFO - Loading traffic data and transport data completed 
+2025-05-28 22:42:30,111 - INFO - Transforming nested traffic data to dataframe started...
+2025-05-28 22:42:30,119 - INFO - Transforming nested traffic data to dataframe completed... total rows are: road                12
+congestion_level    12
+time                12
+speed               12
+dtype: int64
+2025-05-28 22:42:30,148 - INFO - merge data is completed 
+2025-05-28 22:42:30,157 - INFO - Saving the dataframe started..
+2025-05-28 22:42:30,164 - INFO - Saving the dataframe compeletd.. at 
+2025-05-28 22:42:30,164 - INFO - ETL process completed successfully
